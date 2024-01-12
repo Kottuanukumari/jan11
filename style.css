@@ -1,0 +1,98 @@
+#About{
+    background-color:lightpink;
+    width:100%;
+    height:100%;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+}
+#About h2{
+    color: blueviolet;
+    text-align: center;
+    font-size:50px;
+    
+}
+#About img{
+    text-align: center;
+    border-radius: 50%;
+    height: 50%;
+    width: 50%;
+
+}
+#Education{
+     background-color:lightpink;
+    width:100%;
+    height:100%;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+}
+
+#Education h3{
+    color:greenyellow;
+    font-size:50px;
+    text-align: center;
+}
+#Education p{
+    text-align: center;
+}
+#Education h4{
+    text-align: center;
+    color: chocolate;
+}
+#Education p{
+    text-align: center;
+}
+#Education h4{
+    text-align: center;
+    color: chocolate;
+}
+#Skills{
+    background-color:lightpink;
+    width:100%;
+    height:100%;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+}
+#Skills h3{
+     color:greenyellow;
+    font-size:50px;
+    text-align: center;
+    
+}
+#Skills p{
+    text-align: center;
+}
+#Inspiration{
+    background-color:lightpink;
+    width:100%;
+    height:100%;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+}
+#Inspiration h3{
+    color:greenyellow;
+    font-size:50px;
+    text-align: center;
+}
+    #Hobbies{
+    background-color:lightpink;
+    width:100%;
+    height:100%;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+}
+#Hobbies h3{
+     color:greenyellow;
+    font-size:50px;
+    text-align: center;
+    
+}
+
+
+    
+
+    
